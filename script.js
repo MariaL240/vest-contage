@@ -49,8 +49,8 @@ const vestibulares = {
     },
     unicentro: { 
         name: "UNICENTRO", 
-        date: "2026-09-21T14:00:00", 
-        formatted: "21/09/2026",
+        date: "2026-10-11T14:00:00", 
+        formatted: "11/10/2026",
         questoes: "40 questões objetivas + Redação",
         redacao: "Dissertativo-argumentativa",
         materias: "Português, Literatura, Língua Estrangeira, Matemática, Física, Química, Biologia, História e Geografia"
